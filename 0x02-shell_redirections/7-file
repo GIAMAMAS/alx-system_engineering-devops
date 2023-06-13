@@ -1,2 +1,2 @@
-0x02-shell_redirections#!/bin/bash
+#!/bin/bash
 echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
